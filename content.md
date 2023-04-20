@@ -128,7 +128,6 @@ Help center
 Privacy & terms
 
 ## Sections
-
 -Logo + Navigation
 -Hero
 -Featured in
